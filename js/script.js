@@ -88,6 +88,6 @@ document.addEventListener('DOMContentLoaded', () => {
     deleteAdv(adv);
     makeChanges();
     createMovieList(movieDB.movies, movieList);
-    
+    console.log('done');
 
 });
